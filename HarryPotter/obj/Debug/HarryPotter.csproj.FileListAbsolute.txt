@@ -1,0 +1,6 @@
+c:\users\canda\documents\visual studio 2013\Projects\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe.config
+c:\users\canda\documents\visual studio 2013\Projects\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe
+c:\users\canda\documents\visual studio 2013\Projects\HarryPotter\HarryPotter\bin\Debug\HarryPotter.pdb
+c:\users\canda\documents\visual studio 2013\Projects\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csprojResolveAssemblyReference.cache
+c:\users\canda\documents\visual studio 2013\Projects\HarryPotter\HarryPotter\obj\Debug\HarryPotter.exe
+c:\users\canda\documents\visual studio 2013\Projects\HarryPotter\HarryPotter\obj\Debug\HarryPotter.pdb
